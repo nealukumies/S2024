@@ -12,6 +12,8 @@ new_array = array.reshape(4, 5)
 print(f"Kaksiulotteinen taulukko järjestettynä:")
 print(new_array)
 print(80*"-")
+
+
 #Sinulla on vektorit a) u = 2i + 3j, v =4i - 7j
 # b) uu= i + j + k, vv 3i -3j + 2k.
 # Määrittele nämä numpy taulukon avulla.
