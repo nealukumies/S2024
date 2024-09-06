@@ -1,9 +1,3 @@
-# A = np.array([[2, 0, -5, 11], [-4, 9, 17, 0], [1, 0, 8, 10]])
-# print(A)
-# [[ 2  0 -5 11]
-#  [-4  9 17  0]
-#  [ 1  0  8 10]]
-
 import numpy as np
 
 #Tehtävä 3 matriisilaskentaa
