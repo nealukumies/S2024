@@ -3,6 +3,16 @@ import matplotlib.pyplot as plt
 
 #Teht. 1: Piirrä funktion kuvaaja
 
+x_z_range = np.linspace(-1, 1, 20)
+z = np.full_like(x_z_range, 4)
+plt.plot(x_z_range, z)
+
+x_y_range = np.linspace(1, 3, 20)
+v = -(4/3)*x_y_range+(16/3)
+plt.plot(x_y_range, v)
+
+plt.show()
+
 #Teht. 2: Piirrä funktion kuvaaja
 
 x_y_range = np.linspace(-5, 0, 20)
